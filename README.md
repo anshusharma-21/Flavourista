@@ -1,2 +1,3 @@
 # Flavourista
-this is a recipe page
+This is a recipe page.
+Author - Anshu & Mitali
